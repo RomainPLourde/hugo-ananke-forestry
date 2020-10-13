@@ -1,6 +1,6 @@
 baseURL: "https://romainplourde-nws.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+title: "Romain PLourde"
 
 module:
   imports:
