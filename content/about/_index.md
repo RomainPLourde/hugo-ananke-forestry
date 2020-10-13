@@ -1,11 +1,50 @@
 ---
-title: About
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
-  the author of this book found, in an obscure nook of one of the towers, the following
-  word, engraved by hand upon the wall: —ANANKE.'
+title: Mon CV
+description: 'Romain Plourde '
 featured_image: ''
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+    FORMATION
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+* **_2019 - 2020_** Étude à E-artsup Lille en GAME & CREATIVE CODING
+
+
+* **_2016 - 2019_** Étude au lycée Modeste Leroy Evreux en Production Graphique.
+* **_2011 - 2016_** Étude au collège Saint Adjutor VERNON 27.
+
+    Expérience Professionnelle 
+
+* **_2020_** - Job d’été , service technique en rénovation (peinture) a Aubevoy
+* **_2019_** - Job d’été , service technique en rénovation (peinture) a Aubevoy
+* **_2018 / 2019_** - Stage à l’entreprise Séritex’style
+
+  (Graphisme / Marquage publicitaire/ Textile).
+
+* **_2018_** - Stage à l’entreprise Imprimerie Evreux Dupli Services & IND
+
+  (Graphisme / Marquage publicitaire).
+
+* 2018 - Stage à l’entreprise Imprimerie Evreux Dupli Services & IND
+
+  (Graphisme / Marquage publicitaire).
+
+* **_2017_** - Stage à l’entreprise Séritex’style
+
+  (Graphisme / Marquage publicitaire/ Textile).
+
+* **_2017_** - Stage dans le graphisme à l’entreprise Publi Noë
+
+  (Graphisme / Marquage publicitaire).
+
+    Loisir
+
+* Airsoft
+
+
+* Histoire
+
+
+* Jeux vidéo
+
+
+* Photographie
