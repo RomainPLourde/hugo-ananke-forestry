@@ -1,7 +1,7 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: Je m'appelle Romain
+title: Romain Studio
+featured_image: "/images/laptop-1478822.jpg"
+description: Bonjour je m'appelle Romain et je suis un jeune graphiste.
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Bonjour je m'appelle Romain Plourde est je suis un jeune graphiste indépendant qui souhaite lancé son entreprise et sa marque de vêtement. 
