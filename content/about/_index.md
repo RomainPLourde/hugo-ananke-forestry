@@ -1,7 +1,7 @@
 ---
 title: Mon CV
 description: 'Romain Plourde '
-featured_image: ''
+featured_image: "/images/notebook.jpg"
 
 ---
     FORMATION
